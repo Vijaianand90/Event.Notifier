@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event.Notifier.API", "Event.Notifier.API\Event.Notifier.API.csproj", "{2B60B796-C48C-4EBA-B03A-6FA57B21824D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event.Notifier.UI", "Event.Notifier.UI\Event.Notifier.UI.csproj", "{FEEA5AAB-17F3-4906-B605-22264125EDE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B60B796-C48C-4EBA-B03A-6FA57B21824D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B60B796-C48C-4EBA-B03A-6FA57B21824D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B60B796-C48C-4EBA-B03A-6FA57B21824D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B60B796-C48C-4EBA-B03A-6FA57B21824D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEEA5AAB-17F3-4906-B605-22264125EDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEA5AAB-17F3-4906-B605-22264125EDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEA5AAB-17F3-4906-B605-22264125EDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEA5AAB-17F3-4906-B605-22264125EDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ADDC8E9-5F6A-4CB2-8593-92E0238CA757}
+	EndGlobalSection
+EndGlobal
